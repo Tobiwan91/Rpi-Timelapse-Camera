@@ -3,7 +3,7 @@ name: Rpi-Timelapse-Camera
 version: "1.0"
 slug: timelapse_camera
 description: Timelapse Addon for HAOS on Rpi with Rpi-Camera Module
-url: "https://github.com/home-assistant/addons-example/tree/main/example"
+url: "https://github.com/Tobiwan91/Rpi-Timelapse-Camera/tree/main/timelapse_camera"
 arch:
   - armhf
   - armv7
