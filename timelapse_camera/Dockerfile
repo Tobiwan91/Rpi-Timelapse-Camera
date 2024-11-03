@@ -14,4 +14,5 @@ COPY rootfs /
 
 # Set executable permissions for the 'run' script and 'my_program'
 RUN chmod 755 /etc/services.d/example/run \
+    && chmod 755 /etc/services.d/example/finish \
     && chmod 755 /usr/bin/my_program
